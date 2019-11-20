@@ -19,6 +19,14 @@ Frameworks :
 Envoie d'email : 
 > - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
+## Gestion du projet
+
+Le projet a été réalisé à 2 développeurs et nous avons planifié nos tâches respectives sur le site suivant :
+- [Trello SiteRS](https://trello.com/b/xFd7KntF/siters)
+
+Pour ce qui est du code, nous avons travaillé sur la plateforme collaboratif floobits en utilisant ce site :
+- [Floobits SiteRS](https://floobits.com/MOULIN_Lo/SiteRS)
+
 ## Période
 
 Projet effectué du 9 septembre au 20 novembre 2019.
