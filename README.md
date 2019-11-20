@@ -19,6 +19,10 @@ Frameworks :
 Envoie d'email : 
 > - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
+## Période
+
+Projet effectué du 9 septembre au 20 novembre 2019.
+
 ## Documentation
 - [Documentation Utilisateur](https://github.com/MoulinLouis/SiteRS/blob/master/documentation/Documentation%20Utilisateur.pdf)
 - [Documentation Administrateur](https://github.com/MoulinLouis/SiteRS/blob/master/documentation/Documentation%20Administrateur.pdf)
